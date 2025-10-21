@@ -122,4 +122,5 @@ public class ProductController {
         model.addAttribute("id", id);
         return "admin/product/detail";
     }
+
 }
